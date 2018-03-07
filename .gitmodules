@@ -1,0 +1,3 @@
+[submodule "ShaderSubGraphLibrary"]
+	path = ShaderSubGraphLibrary
+	url = git@github.com:beinteractive/ShaderSubGraphLibrary.git
