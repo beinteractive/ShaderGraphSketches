@@ -5,6 +5,7 @@
 /Movies
 
 /Assets/Plugins/Editor/JetBrains*
+/Obsolete
 
 .idea
 *.sln
