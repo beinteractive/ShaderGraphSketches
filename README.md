@@ -1,3 +1,3 @@
 # ShaderGraphSketches
 
-![showcase-loop](https://user-images.githubusercontent.com/1482297/37191945-fa19b47a-23a5-11e8-8088-bae4617780db.gif)
+![showcase](https://user-images.githubusercontent.com/1482297/37265095-8e36c058-25f4-11e8-9584-0eae51ff20d7.gif)
