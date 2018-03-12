@@ -4,6 +4,7 @@
 /Temp
 /Movies
 
+/Assets/Plugins*
 /Assets/Plugins/Editor/JetBrains*
 /Obsolete
 
